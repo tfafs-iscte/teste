@@ -2,8 +2,7 @@ package projeto;
 
 public class teste {
 
-	
-	teste3
-	
+	public void test() {
+	}
 	
 }
